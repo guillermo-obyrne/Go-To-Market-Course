@@ -94,7 +94,7 @@ The segment gap was identified by support solving problems for existing users. T
 Re-score once the sizing data is in.
 
 **Team**
-- PM, who owns the metric: [name]
+- PM, who owns the metric: Guillermo O'Byrne
 - Finance: business case and target
 - Compliance & Risk: payment fraud, cross-account data sharing, account sharing
 - Marketing: in-product and lifecycle messaging
