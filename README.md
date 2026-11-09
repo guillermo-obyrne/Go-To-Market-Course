@@ -10,7 +10,7 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
-| 1 | **GTM Strategy** (Discover Framework + motion + V1 one-pager) | M1 | ☐ | `01-gtm-strategy/gtm-strategy.md` |
+| 1 | **GTM Strategy** (Discover Framework + motion + V1 one-pager) | M1 | ☑ | `01-gtm-strategy/gtm-strategy.md` |
 | 2 | **Competitive Intelligence & Strategic Bet** (battlecard) | M2 | ☐ | `02-competitive-intel/battlecard-and-bet.md` |
 | 3 | **Positioning Statement** (framework + statement) | M3 | ☐ | `03-positioning/positioning.md` |
 | 4 | **Messaging Pillars** | M4 | ☐ | `04-messaging/messaging-pillars.md` |
