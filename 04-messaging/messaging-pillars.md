@@ -39,6 +39,8 @@
 
 ## 4. Copy across three surfaces
 
-- **Surface 1:** _____
-- **Surface 2:** _____
-- **Surface 3:** _____
+- **In-app notification (organizer):** "Booking for a group? Send each friend their own link. The booking confirms once everyone's paid, so you never front the bill." *Leads with the organizer value prop and the confirm-when-paid mechanism. Fires when a group workaround is detected, such as an abandoned multi-person checkout.*
+- **Email subject line (guest):** "[Organizer name] saved you a spot: pay your share in a few taps". Preview text: "No app to download. Your spot confirms once the group has paid." *Leads with the guest value prop, with the organizer's name for trust. Variant to test: "pay your $150 share" with the real amount merged in.*
+- **Onboarding tooltip (organizer, on the experience page):** "Booking for friends? Each guest pays their own share from their own link, so you never front the bill." *Leads with the capability, at the point of discovery on the "Book for your group" module.*
+
+*Surface choice: PLG, in-product and lifecycle first. The homepage headline was rejected as too wide, because V1 targets existing Roamly users and excludes paid acquisition. No made-up evidence appears in live copy.*
